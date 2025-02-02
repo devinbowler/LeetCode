@@ -1,0 +1,27 @@
+<h2> 23592 1502
+238. Product of Array Except Self</h2><hr><div style="border-color: rgba(140, 122, 115, 0.65) !important;"><p style="border-color: rgba(140, 122, 115, 0.65) !important;">Given an integer array <code style="background-color: rgb(36, 17, 22) !important; color: rgb(236, 153, 174) !important; border-color: rgb(171, 35, 69) !important;">nums</code>, return <em style="color: rgba(255, 255, 255, 0.65) !important; border-color: rgba(140, 122, 115, 0.65) !important;">an array</em> <code style="background-color: rgb(36, 17, 22) !important; color: rgb(236, 153, 174) !important; border-color: rgb(171, 35, 69) !important;">answer</code> <em style="color: rgba(255, 255, 255, 0.65) !important; border-color: rgba(140, 122, 115, 0.65) !important;">such that</em> <code style="background-color: rgb(36, 17, 22) !important; color: rgb(236, 153, 174) !important; border-color: rgb(171, 35, 69) !important;">answer[i]</code> <em style="color: rgba(255, 255, 255, 0.65) !important; border-color: rgba(140, 122, 115, 0.65) !important;">is equal to the product of all the elements of</em> <code style="background-color: rgb(36, 17, 22) !important; color: rgb(236, 153, 174) !important; border-color: rgb(171, 35, 69) !important;">nums</code> <em style="color: rgba(255, 255, 255, 0.65) !important; border-color: rgba(140, 122, 115, 0.65) !important;">except</em> <code style="background-color: rgb(36, 17, 22) !important; color: rgb(236, 153, 174) !important; border-color: rgb(171, 35, 69) !important;">nums[i]</code>.</p>
+
+<p style="border-color: rgba(140, 122, 115, 0.65) !important;">The product of any prefix or suffix of <code style="background-color: rgb(36, 17, 22) !important; color: rgb(236, 153, 174) !important; border-color: rgb(171, 35, 69) !important;">nums</code> is <strong style="border-color: rgba(140, 122, 115, 0.65) !important;">guaranteed</strong> to fit in a <strong style="border-color: rgba(140, 122, 115, 0.65) !important;">32-bit</strong> integer.</p>
+
+<p style="border-color: rgba(140, 122, 115, 0.65) !important;">You must write an algorithm that runs in&nbsp;<code style="background-color: rgb(36, 17, 22) !important; color: rgb(236, 153, 174) !important; border-color: rgb(171, 35, 69) !important;">O(n)</code>&nbsp;time and without using the division operation.</p>
+
+<p style="border-color: rgba(140, 122, 115, 0.65) !important;">&nbsp;</p>
+<p style="border-color: rgba(140, 122, 115, 0.65) !important;"><strong class="example" style="border-color: rgba(140, 122, 115, 0.65) !important;">Example 1:</strong></p>
+<pre style="background-color: rgb(24, 26, 27) !important; color: rgb(200, 192, 188) !important; border-color: rgb(126, 109, 103) !important;"><strong style="border-color: rgb(112, 97, 92) !important;">Input:</strong> nums = [1,2,3,4]
+<strong style="border-color: rgb(112, 97, 92) !important;">Output:</strong> [24,12,8,6]
+</pre><p style="border-color: rgba(140, 122, 115, 0.65) !important;"><strong class="example" style="border-color: rgba(140, 122, 115, 0.65) !important;">Example 2:</strong></p>
+<pre style="background-color: rgb(24, 26, 27) !important; color: rgb(200, 192, 188) !important; border-color: rgb(126, 109, 103) !important;"><strong style="border-color: rgb(112, 97, 92) !important;">Input:</strong> nums = [-1,1,0,-3,3]
+<strong style="border-color: rgb(112, 97, 92) !important;">Output:</strong> [0,0,9,0,0]
+</pre>
+<p style="border-color: rgba(140, 122, 115, 0.65) !important;">&nbsp;</p>
+<p style="border-color: rgba(140, 122, 115, 0.65) !important;"><strong style="border-color: rgba(140, 122, 115, 0.65) !important;">Constraints:</strong></p>
+
+<ul style="border-color: rgba(140, 122, 115, 0.65) !important;">
+	<li style="border-color: rgba(140, 122, 115, 0.65) !important;"><code style="background-color: rgb(36, 17, 22) !important; color: rgb(236, 153, 174) !important; border-color: rgb(171, 35, 69) !important;">2 &lt;= nums.length &lt;= 10<sup style="border-color: rgb(171, 35, 69) !important;">5</sup></code></li>
+	<li style="border-color: rgba(140, 122, 115, 0.65) !important;"><code style="background-color: rgb(36, 17, 22) !important; color: rgb(236, 153, 174) !important; border-color: rgb(171, 35, 69) !important;">-30 &lt;= nums[i] &lt;= 30</code></li>
+	<li style="border-color: rgba(140, 122, 115, 0.65) !important;">The input is generated such that <code style="background-color: rgb(36, 17, 22) !important; color: rgb(236, 153, 174) !important; border-color: rgb(171, 35, 69) !important;">answer[i]</code> is <strong style="border-color: rgba(140, 122, 115, 0.65) !important;">guaranteed</strong> to fit in a <strong style="border-color: rgba(140, 122, 115, 0.65) !important;">32-bit</strong> integer.</li>
+</ul>
+
+<p style="border-color: rgba(140, 122, 115, 0.65) !important;">&nbsp;</p>
+<p style="border-color: rgba(140, 122, 115, 0.65) !important;"><strong style="border-color: rgba(140, 122, 115, 0.65) !important;">Follow up:</strong>&nbsp;Can you solve the problem in <code style="background-color: rgb(36, 17, 22) !important; color: rgb(236, 153, 174) !important; border-color: rgb(171, 35, 69) !important;">O(1)</code>&nbsp;extra&nbsp;space complexity? (The output array <strong style="border-color: rgba(140, 122, 115, 0.65) !important;">does not</strong> count as extra space for space complexity analysis.)</p>
+</div>
