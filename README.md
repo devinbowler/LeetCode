@@ -6,6 +6,7 @@ This repository will hold all solutions to leetcode problems I solve.
 ## Array
 |  |
 | ------- |
+| [0377-combination-sum-iv](https://github.com/devinbowler/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/devinbowler/LeetCode/tree/master/0396-rotate-function) |
 ## Math
 |  |
@@ -15,6 +16,7 @@ This repository will hold all solutions to leetcode problems I solve.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0377-combination-sum-iv](https://github.com/devinbowler/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/devinbowler/LeetCode/tree/master/0396-rotate-function) |
 ## Bit Manipulation
 |  |
