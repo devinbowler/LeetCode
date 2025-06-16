@@ -7,6 +7,7 @@ This repository will hold all solutions to leetcode problems I solve.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/devinbowler/LeetCode/tree/master/0048-rotate-image) |
+| [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
 | [0377-combination-sum-iv](https://github.com/devinbowler/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/devinbowler/LeetCode/tree/master/0396-rotate-function) |
 ## Math
@@ -27,6 +28,7 @@ This repository will hold all solutions to leetcode problems I solve.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
@@ -35,6 +37,7 @@ This repository will hold all solutions to leetcode problems I solve.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -47,9 +50,14 @@ This repository will hold all solutions to leetcode problems I solve.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/devinbowler/LeetCode/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
