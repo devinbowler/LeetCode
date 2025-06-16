@@ -8,6 +8,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | ------- |
 | [0048-rotate-image](https://github.com/devinbowler/LeetCode/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devinbowler/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0377-combination-sum-iv](https://github.com/devinbowler/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/devinbowler/LeetCode/tree/master/0396-rotate-function) |
 ## Math
@@ -56,8 +57,14 @@ This repository will hold all solutions to leetcode problems I solve.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/devinbowler/LeetCode/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devinbowler/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devinbowler/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/devinbowler/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
