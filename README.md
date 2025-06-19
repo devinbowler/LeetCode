@@ -12,6 +12,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0377-combination-sum-iv](https://github.com/devinbowler/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/devinbowler/LeetCode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/devinbowler/LeetCode/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/devinbowler/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
