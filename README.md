@@ -7,6 +7,7 @@ This repository will hold all solutions to leetcode problems I solve.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/devinbowler/LeetCode/tree/master/0048-rotate-image) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/devinbowler/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devinbowler/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0377-combination-sum-iv](https://github.com/devinbowler/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -69,5 +70,6 @@ This repository will hold all solutions to leetcode problems I solve.
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/devinbowler/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devinbowler/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
