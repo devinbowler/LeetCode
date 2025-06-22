@@ -10,6 +10,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devinbowler/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devinbowler/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/devinbowler/LeetCode/tree/master/0260-single-number-iii) |
 | [0377-combination-sum-iv](https://github.com/devinbowler/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/devinbowler/LeetCode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/devinbowler/LeetCode/tree/master/0414-third-maximum-number) |
@@ -28,6 +29,7 @@ This repository will hold all solutions to leetcode problems I solve.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/devinbowler/LeetCode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/devinbowler/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
 |  |
