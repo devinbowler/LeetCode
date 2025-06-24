@@ -15,6 +15,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0377-combination-sum-iv](https://github.com/devinbowler/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/devinbowler/LeetCode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/devinbowler/LeetCode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/devinbowler/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devinbowler/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ This repository will hold all solutions to leetcode problems I solve.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/devinbowler/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
