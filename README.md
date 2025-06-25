@@ -17,6 +17,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0414-third-maximum-number](https://github.com/devinbowler/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devinbowler/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devinbowler/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devinbowler/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -82,4 +84,12 @@ This repository will hold all solutions to leetcode problems I solve.
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/devinbowler/LeetCode/tree/master/0289-game-of-life) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
