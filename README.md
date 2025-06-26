@@ -24,6 +24,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0048-rotate-image](https://github.com/devinbowler/LeetCode/tree/master/0048-rotate-image) |
 | [0371-sum-of-two-integers](https://github.com/devinbowler/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/devinbowler/LeetCode/tree/master/0396-rotate-function) |
+| [0441-arranging-coins](https://github.com/devinbowler/LeetCode/tree/master/0441-arranging-coins) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devinbowler/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devinbowler/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0441-arranging-coins](https://github.com/devinbowler/LeetCode/tree/master/0441-arranging-coins) |
 ## Simulation
 |  |
 | ------- |
