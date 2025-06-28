@@ -18,6 +18,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0442-find-all-duplicates-in-an-array](https://github.com/devinbowler/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devinbowler/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
+| [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0371-sum-of-two-integers](https://github.com/devinbowler/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/devinbowler/LeetCode/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/devinbowler/LeetCode/tree/master/0441-arranging-coins) |
+| [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +44,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0442-find-all-duplicates-in-an-array](https://github.com/devinbowler/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
+| [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
 ## String
 |  |
 | ------- |
@@ -65,6 +68,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | ------- |
 | [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
 ## Matrix
 |  |
 | ------- |
@@ -94,4 +98,8 @@ This repository will hold all solutions to leetcode problems I solve.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
 <!---LeetCode Topics End-->
