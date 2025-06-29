@@ -18,6 +18,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0442-find-all-duplicates-in-an-array](https://github.com/devinbowler/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devinbowler/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2159-two-out-of-three](https://github.com/devinbowler/LeetCode/tree/master/2159-two-out-of-three) |
 | [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
 ## Math
 |  |
@@ -37,6 +38,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | ------- |
 | [0260-single-number-iii](https://github.com/devinbowler/LeetCode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/devinbowler/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [2159-two-out-of-three](https://github.com/devinbowler/LeetCode/tree/master/2159-two-out-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +46,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0442-find-all-duplicates-in-an-array](https://github.com/devinbowler/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2159-two-out-of-three](https://github.com/devinbowler/LeetCode/tree/master/2159-two-out-of-three) |
 | [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
 ## String
 |  |
