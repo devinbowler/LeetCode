@@ -49,10 +49,12 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2159-two-out-of-three](https://github.com/devinbowler/LeetCode/tree/master/2159-two-out-of-three) |
 | [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/devinbowler/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/devinbowler/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/devinbowler/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
