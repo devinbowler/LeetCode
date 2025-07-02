@@ -19,6 +19,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0485-max-consecutive-ones](https://github.com/devinbowler/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devinbowler/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1580-shuffle-the-array](https://github.com/devinbowler/LeetCode/tree/master/1580-shuffle-the-array) |
 | [2159-two-out-of-three](https://github.com/devinbowler/LeetCode/tree/master/2159-two-out-of-three) |
 | [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
 ## Math
