@@ -18,6 +18,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0442-find-all-duplicates-in-an-array](https://github.com/devinbowler/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devinbowler/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0943-sum-of-subarray-minimums](https://github.com/devinbowler/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devinbowler/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1580-shuffle-the-array](https://github.com/devinbowler/LeetCode/tree/master/1580-shuffle-the-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devinbowler/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -36,6 +37,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | ------- |
 | [0377-combination-sum-iv](https://github.com/devinbowler/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/devinbowler/LeetCode/tree/master/0396-rotate-function) |
+| [0943-sum-of-subarray-minimums](https://github.com/devinbowler/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,10 +106,12 @@ This repository will hold all solutions to leetcode problems I solve.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0943-sum-of-subarray-minimums](https://github.com/devinbowler/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0943-sum-of-subarray-minimums](https://github.com/devinbowler/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Combinatorics
 |  |
 | ------- |
