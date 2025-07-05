@@ -24,6 +24,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devinbowler/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2159-two-out-of-three](https://github.com/devinbowler/LeetCode/tree/master/2159-two-out-of-three) |
 | [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/devinbowler/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0048-rotate-image](https://github.com/devinbowler/LeetCode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devinbowler/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/devinbowler/LeetCode/tree/master/0289-game-of-life) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/devinbowler/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +104,7 @@ This repository will hold all solutions to leetcode problems I solve.
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/devinbowler/LeetCode/tree/master/0289-game-of-life) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/devinbowler/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Stack
 |  |
 | ------- |
