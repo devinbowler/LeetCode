@@ -18,6 +18,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0442-find-all-duplicates-in-an-array](https://github.com/devinbowler/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devinbowler/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/devinbowler/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/devinbowler/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devinbowler/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1580-shuffle-the-array](https://github.com/devinbowler/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -52,6 +53,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0442-find-all-duplicates-in-an-array](https://github.com/devinbowler/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/devinbowler/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2159-two-out-of-three](https://github.com/devinbowler/LeetCode/tree/master/2159-two-out-of-three) |
 | [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/devinbowler/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -67,6 +69,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/devinbowler/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/devinbowler/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -80,6 +83,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | ------- |
 | [0169-majority-element](https://github.com/devinbowler/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/devinbowler/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/devinbowler/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
@@ -123,4 +127,8 @@ This repository will hold all solutions to leetcode problems I solve.
 |  |
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devinbowler/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/devinbowler/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
