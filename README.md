@@ -20,6 +20,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/devinbowler/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/devinbowler/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/devinbowler/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devinbowler/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1580-shuffle-the-array](https://github.com/devinbowler/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/devinbowler/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -55,6 +56,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/devinbowler/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/devinbowler/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/devinbowler/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [2159-two-out-of-three](https://github.com/devinbowler/LeetCode/tree/master/2159-two-out-of-three) |
 | [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/devinbowler/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
