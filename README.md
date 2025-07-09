@@ -24,6 +24,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devinbowler/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1580-shuffle-the-array](https://github.com/devinbowler/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/devinbowler/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/devinbowler/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devinbowler/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2159-two-out-of-three](https://github.com/devinbowler/LeetCode/tree/master/2159-two-out-of-three) |
 | [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
@@ -35,6 +36,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0371-sum-of-two-integers](https://github.com/devinbowler/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/devinbowler/LeetCode/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/devinbowler/LeetCode/tree/master/0441-arranging-coins) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/devinbowler/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
 ## Dynamic Programming
 |  |
@@ -131,6 +133,7 @@ This repository will hold all solutions to leetcode problems I solve.
 |  |
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devinbowler/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/devinbowler/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
