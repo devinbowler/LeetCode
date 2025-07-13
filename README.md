@@ -68,6 +68,7 @@ This repository will hold all solutions to leetcode problems I solve.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1970-sorting-the-sentence](https://github.com/devinbowler/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devinbowler/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/devinbowler/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -77,6 +78,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0414-third-maximum-number](https://github.com/devinbowler/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/devinbowler/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1970-sorting-the-sentence](https://github.com/devinbowler/LeetCode/tree/master/1970-sorting-the-sentence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
