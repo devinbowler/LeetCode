@@ -21,6 +21,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0594-longest-harmonious-subsequence](https://github.com/devinbowler/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/devinbowler/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/devinbowler/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1127-last-stone-weight](https://github.com/devinbowler/LeetCode/tree/master/1127-last-stone-weight) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devinbowler/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1580-shuffle-the-array](https://github.com/devinbowler/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/devinbowler/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -85,6 +86,7 @@ This repository will hold all solutions to leetcode problems I solve.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/devinbowler/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1127-last-stone-weight](https://github.com/devinbowler/LeetCode/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
