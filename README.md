@@ -22,6 +22,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0943-sum-of-subarray-minimums](https://github.com/devinbowler/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/devinbowler/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1127-last-stone-weight](https://github.com/devinbowler/LeetCode/tree/master/1127-last-stone-weight) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/devinbowler/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/devinbowler/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1580-shuffle-the-array](https://github.com/devinbowler/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/devinbowler/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -105,6 +106,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0048-rotate-image](https://github.com/devinbowler/LeetCode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devinbowler/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/devinbowler/LeetCode/tree/master/0289-game-of-life) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/devinbowler/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/devinbowler/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/devinbowler/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Divide and Conquer
