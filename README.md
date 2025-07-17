@@ -31,6 +31,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [2159-two-out-of-three](https://github.com/devinbowler/LeetCode/tree/master/2159-two-out-of-three) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/devinbowler/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devinbowler/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/devinbowler/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/devinbowler/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Math
@@ -42,6 +43,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [0441-arranging-coins](https://github.com/devinbowler/LeetCode/tree/master/0441-arranging-coins) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/devinbowler/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devinbowler/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/devinbowler/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
 |  |
@@ -67,6 +69,7 @@ This repository will hold all solutions to leetcode problems I solve.
 | [2159-two-out-of-three](https://github.com/devinbowler/LeetCode/tree/master/2159-two-out-of-three) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/devinbowler/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3388-right-triangles](https://github.com/devinbowler/LeetCode/tree/master/3388-right-triangles) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devinbowler/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/devinbowler/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
